@@ -49,7 +49,7 @@ python -m pip install pygame
 ```
 3. Navigate to the folder containing the files and run the application. (If located in the Downloads folder)
 ```bash
-cd /d %USERPROFILE%\Downloads\PataPata_clock
+cd /d %USERPROFILE%\Downloads\PataPata_clock-main
 python PataPata_clock.py
 ```
 ### mac
@@ -58,7 +58,7 @@ python PataPata_clock.py
 2. Open Terminal and run the following commands (If located in the Downloads folder)
 ```bash
 pip3 install pygame
-cd ~/Downloads/PataPata_clock
+cd ~/Downloads/PataPata_clock-main
 python3 PataPata_clock.py
 ```
 
@@ -74,7 +74,7 @@ sudo apt install -y python3-pygame
 
 3. Navigate to the folder containing the files and run the application (If located on the Desktop)
 ```bash
-cd ~/Desktop/PataPata_clock
+cd ~/Desktop/PataPata_clock-main
 python3 PataPata_clock.py
 ```
 ### Usage
