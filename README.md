@@ -53,7 +53,7 @@ python -m pip install pygame
 3. ファイルのあるフォルダへ移動して起動
 （ダウンロードフォルダにある場合）
 ```bash
-cd /d %USERPROFILE%\Downloads\PataPata_clock
+cd /d %USERPROFILE%\Downloads\PataPata_clock-main
 python PataPata_clock.py
 ```
 
@@ -63,7 +63,7 @@ python PataPata_clock.py
 2. ターミナルを起動し、以下のコマンドを実行（ファイルがダウンロードフォルダにある場合）
 ```bash
 pip3 install pygame
-cd ~/Downloads/PataPata_clock
+cd ~/Downloads/PataPata_clock-main
 python3 PataPata_clock.py
 ```
 
@@ -78,7 +78,7 @@ sudo apt install -y python3-pygame
 ```
 3. ファイルのあるフォルダへ移動して起動（デスクトップにある場合）　　
 ```bash
-cd ~/Desktop/PataPata_clock
+cd ~/Desktop/PataPata_clock-main
 python3 PataPata_clock.py
 ```
 
